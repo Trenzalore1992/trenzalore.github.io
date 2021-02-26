@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://trenzalore.net/2021/02/27/Sport/</loc>
+    
+    <lastmod>2021-02-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://trenzalore.net/plans/index.html</loc>
     
     <lastmod>2021-02-26</lastmod>
@@ -66,6 +73,48 @@
   </url>
 
   
+  <url>
+    <loc>http://trenzalore.net/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/tags/%E8%BF%90%E5%8A%A8/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/tags/Nintendo-Switch/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://trenzalore.net/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/categories/%E7%94%9F%E6%B4%BB/%E8%AE%B0%E5%BD%95/%E8%BF%90%E5%8A%A8/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
