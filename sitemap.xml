@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://trenzalore.net/plans/index.html</loc>
+    
+    <lastmod>2021-02-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/talking/index.html</loc>
+    
+    <lastmod>2021-02-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/manifest.json</loc>
+    
+    <lastmod>2021-02-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/tags/index.html</loc>
+    
+    <lastmod>2021-02-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/categories/index.html</loc>
+    
+    <lastmod>2021-02-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/link/index.html</loc>
+    
+    <lastmod>2021-02-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/about/index.html</loc>
+    
+    <lastmod>2021-02-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://trenzalore.net/2021/02/19/hello-world/</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://trenzalore.net/</loc>
+    <lastmod>2021-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
