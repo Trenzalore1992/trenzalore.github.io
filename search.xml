@@ -4,11 +4,42 @@
   
     
     <entry>
+      <title>古诗与古字</title>
+      <link href="2021/02/28/poetry-and-word/"/>
+      <url>2021/02/28/poetry-and-word/</url>
+      
+        <content type="html"><![CDATA[<h1 id="戏"><a href="#戏" class="headerlink" title="戏"></a>戏</h1><h2 id="江南-汉乐府"><a href="#江南-汉乐府" class="headerlink" title="江南-汉乐府"></a>江南-汉乐府</h2><h3 id="江南可采莲，莲叶何田田。鱼戏莲叶间。"><a href="#江南可采莲，莲叶何田田。鱼戏莲叶间。" class="headerlink" title="江南可采莲，莲叶何田田。鱼戏莲叶间。"></a>江南可采莲，莲叶何田田。鱼戏莲叶间。</h3><h3 id="鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。"><a href="#鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。" class="headerlink" title="鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。"></a>鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。</h3><img src= "/img/xi.jpg">豆是古代一种装水、装酒的容器，用于祭祀。用这种器皿表示祭祀的场面。戏的本意是拿着武器与野兽搏斗，是一种与战争有关的祭祀仪式，假装杀死象征敌人的野兽，本意是角力、角斗。由于这样的仪式是一种通过扮演的象征行为，所以后世对娱乐性的表演也称为戏（戏剧、游戏）]]></content>
+      
+      
+      <categories>
+          
+          <category> 积累 </category>
+          
+          <category> 知识 </category>
+          
+          <category> 文学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 诗词 </tag>
+            
+            <tag> 古文字 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>健身环大冒险</title>
       <link href="2021/02/27/Sport/"/>
       <url>2021/02/27/Sport/</url>
       
-        <content type="html"><![CDATA[<h2 id="2021-02-26-辛丑年正月十五-周五-晴"><a href="#2021-02-26-辛丑年正月十五-周五-晴" class="headerlink" title="2021/02/26 辛丑年正月十五 周五 晴"></a>2021/02/26 辛丑年正月十五 周五 晴</h2><img src="https://pbs.twimg.com/media/EvKsuVoVgAMhxBv?format=jpg&name=large">]]></content>
+        <content type="html"><![CDATA[<h2 id="2021-02-27-辛丑年正月十六-周六-晴"><a href="#2021-02-27-辛丑年正月十六-周六-晴" class="headerlink" title="2021/02/27 辛丑年正月十六 周六 晴"></a>2021/02/27 辛丑年正月十六 周六 晴</h2><img src="https://pbs.twimg.com/media/EvPw2FwVgAE-xAi?format=jpg&name=large"><img src="https://pbs.twimg.com/media/EvPw2FvUUAEWzE6?format=jpg&name=large"><h2 id="2021-02-26-辛丑年正月十五-周五-晴"><a href="#2021-02-26-辛丑年正月十五-周五-晴" class="headerlink" title="2021/02/26 辛丑年正月十五 周五 晴"></a>2021/02/26 辛丑年正月十五 周五 晴</h2><img src="https://pbs.twimg.com/media/EvKsuVoVgAMhxBv?format=jpg&name=large">]]></content>
       
       
       <categories>
@@ -31,19 +62,6 @@
             <tag> Nintendo Switch </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="2021/02/19/hello-world/"/>
-      <url>2021/02/19/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
